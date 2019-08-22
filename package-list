@@ -1,0 +1,10 @@
+com.imi.dolphin.sdkwebservice
+com.imi.dolphin.sdkwebservice.builder
+com.imi.dolphin.sdkwebservice.controller
+com.imi.dolphin.sdkwebservice.form
+com.imi.dolphin.sdkwebservice.model
+com.imi.dolphin.sdkwebservice.param
+com.imi.dolphin.sdkwebservice.property
+com.imi.dolphin.sdkwebservice.service
+com.imi.dolphin.sdkwebservice.token
+com.imi.dolphin.sdkwebservice.util
